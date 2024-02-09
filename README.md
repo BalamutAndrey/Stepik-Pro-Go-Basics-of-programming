@@ -12,5 +12,5 @@ ___
 - [x] 1.3.2. [Hello, PRO Go!](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/1.3.2.%20Hello%2C%20PRO%20Go)
 #### 2.1 Вывод данных
 - [x] 2.1.1. [Здравствуй, Иосиф!](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.1.1.%20Hello%2C%20Iosif)
-- [ ] 2.1.2. [Измените предложенную программу](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.1.2.%20Change%20the%20suggested%20program)
+- [x] 2.1.2. [Измените предложенную программу](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.1.2.%20Change%20the%20suggested%20program)
 ---
