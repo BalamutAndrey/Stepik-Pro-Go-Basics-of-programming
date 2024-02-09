@@ -1,2 +1,14 @@
-# Stepik-Pro-Go-Basics-of-programming
-Stepic: PRO Go. Basics of programming
+___
+## Stepic: PRO Go. Основы программирования
+___
+
+* В файлах `README.md` каждого каталога находится задание и код программы/функции, предоставленные для решения задачи;
+* В каталогах `src/` находятся файлы с решениями.
+
+---
+### 1. Общая информация о курсе
+#### 1.3 Введение
+- [x] 1.3.1. [Сдаем первую программу (Hello, World!)](https://github.com/BalamutAndrey/)
+- [x] 1.3.2. [Hello, PRO Go!](https://github.com/BalamutAndrey/)
+#### 2.1 Вывод данных
+---
