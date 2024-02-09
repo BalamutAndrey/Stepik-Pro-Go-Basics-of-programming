@@ -17,4 +17,5 @@ ___
 - [x] 2.3.1. [Приветствие](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.1.%20Greeting)
 - [x] 2.3.2. [Любимая книга](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.2.%20Favorite%20book)
 - [x] 2.3.3. [Повторяй за мной](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.3.%20Repeat%20after%20me)
+- [x] 2.3.4. [Повторяй за мной 2](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.4.%20Repeat%20after%20me%202)
 ---
