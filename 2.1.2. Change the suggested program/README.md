@@ -2,10 +2,10 @@
 
 Измените предложенную программу, чтобы она выводила:
 
-> row1
-row2
-row3
-row4
+> row1<br>
+> row2<br>
+> row3<br>
+> row4
 
 В программе сделаны самые частые ошибки начинающего программиста. 
 ___
@@ -18,10 +18,10 @@ ___
 **Sample Input:**
 
 **Sample Output:**
-> **row1
-row2
-row3
-row4**
+> **row1<br />
+> row2<br />
+> row3<br />
+> row4**
 ___
 ```Go
 package main
