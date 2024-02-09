@@ -15,4 +15,5 @@ ___
 - [x] 2.1.2. [Измените предложенную программу](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.1.2.%20Change%20the%20suggested%20program)
 #### 2.3 Типы данных. Переменные
 - [x] 2.3.1. [Приветствие](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.1.%20Greeting)
+- [ ] 2.3.2. [Любимая книга]()
 ---
