@@ -1,5 +1,20 @@
 package main
 
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
+
 func main() {
-	// put your code here
+	scaner := bufio.NewScanner(os.Stdin)
+	_ = scaner.Scan()
+	string1 := scaner.Text()
+	_ = scaner.Scan()
+	string2 := scaner.Text()
+	_ = scaner.Scan()
+	string3 := scaner.Text()
+	fmt.Println(string1)
+	fmt.Println(string2)
+	fmt.Println(string3)
 }
