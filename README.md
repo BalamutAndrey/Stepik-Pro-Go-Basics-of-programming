@@ -38,4 +38,5 @@ ___
 - [x] 2.5.4. [Перевернутое число](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.5.4.%20Reversed%20number)
 #### 2.6. Вещественные числа
 - [x] 2.6.1. [Площадь круга](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.1.%20Area%20of%20​​a%20circle)
+- [x] 2.6.2. [Площадь треугольника](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.2.%20Area%20of%20​​a%20triangle)
 ---
