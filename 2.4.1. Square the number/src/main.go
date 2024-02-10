@@ -1,5 +1,10 @@
 package main
 
+import "fmt"
+
 func main() {
-	// put your code here
+	var nums int
+	fmt.Scan(&nums)
+	sqr := nums * nums
+	fmt.Println(sqr)
 }
