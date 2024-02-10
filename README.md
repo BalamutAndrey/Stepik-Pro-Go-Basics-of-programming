@@ -33,4 +33,5 @@ ___
 - [x] 2.4.11. [Следующее и предыдущее](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.11.%20Next%20and%20previous)
 #### 2.5. Целые числа. Анализ цифр числа
 - [x] 2.5.1. [Последняя цифра](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.5.1.%20Last%20digit)
+- [x] 2.5.2. [Число десятков числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.5.2.%20Tens%20number)
 ---
