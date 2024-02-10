@@ -30,4 +30,5 @@ ___
 - [x] 2.4.8. [Стоимость покупки - 1](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.8.%20Purchase%20price%20-%201)
 - [x] 2.4.9. [Стоимость покупки - 2](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.9.%20Purchase%20price%20-%202)
 - [x] 2.4.10. [Пересчет временного интервала](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.10.%20Recalculation%20of%20the%20time%20interval)
+- [x] 2.4.11. [Следующее и предыдущее](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.11.%20Next%20and%20previous)
 ---
