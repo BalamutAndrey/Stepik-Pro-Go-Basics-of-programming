@@ -21,5 +21,6 @@ ___
 - [x] 2.3.5. [Кастомный разделитель](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.5.%20Custom%20separator)
 #### 2.4. Целые числа
 - [x] 2.4.1. [Квадрат числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.1.%20Square%20the%20number)
-- [x] 2.4.2. [Расстояние в километрах](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.1.%20Distance%20in%20kilometers)
+- [x] 2.4.2. [Расстояние в километрах](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.2.%20Distance%20in%20kilometers)
+- [x] 2.4.3. [Работа с переменными](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.3.%20Work%20with%20Variables)
 ---
