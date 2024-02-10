@@ -36,4 +36,6 @@ ___
 - [x] 2.5.2. [Число десятков числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.5.2.%20Tens%20number)
 - [x] 2.5.3. [Сумма цифр](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.5.3.%20Sum%20of%20digits)
 - [x] 2.5.4. [Перевернутое число](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.5.4.%20Reversed%20number)
+#### 2.6. Вещественные числа
+- [x] 2.6.1. [Площадь круга](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.1.%20Area%20of%20​​a%20circle)
 ---
