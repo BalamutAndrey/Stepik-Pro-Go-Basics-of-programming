@@ -41,4 +41,5 @@ ___
 - [x] 2.6.2. [Площадь треугольника](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.2.%20Area%20of%20a%20triangle)
 - [x] 2.6.3. [По Фаренгейту](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.3.%20In%20Fahrenheit)
 - [x] 2.6.4. [Среднее арифметическое](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.4.%20Arithmetic%20mean)
+- [x] 2.6.5. [Дробная часть](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.5.%20AFractional%20part)
 ---
