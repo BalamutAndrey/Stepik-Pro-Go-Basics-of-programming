@@ -24,4 +24,5 @@ ___
 - [x] 2.4.2. [Расстояние в километрах](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.2.%20Distance%20in%20kilometers)
 - [x] 2.4.3. [Работа с переменными](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.3.%20Work%20with%20Variables)
 - [x] 2.4.4. [Произведение трёх чисел](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.4.%20Product%20of%20three%20numbers)
+- [x] 2.4.5. [Дележ яблок - 1](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.5.%20Dividing%20the%20apples%20-%201)
 ---
