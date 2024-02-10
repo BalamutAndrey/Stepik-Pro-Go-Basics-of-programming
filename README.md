@@ -25,6 +25,7 @@ ___
 - [x] 2.4.3. [Работа с переменными](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.3.%20Work%20with%20Variables)
 - [x] 2.4.4. [Произведение трёх чисел](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.4.%20Product%20of%20three%20numbers)
 - [x] 2.4.5. [Дележ яблок - 1](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.5.%20Dividing%20the%20apples%20-%201)
-- [x] 2.4.6. [Дележ яблок - 1](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.6.%20Dividing%20the%20apples%20-%202)
+- [x] 2.4.6. [Дележ яблок - 2](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.6.%20Dividing%20the%20apples%20-%202)
 - [x] 2.4.7. [Три последовательных числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.7.%20Three%20consecutive%20numbers)
+- [x] 2.4.8. [Стоимость покупки 1](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.4.8.%20Purchase%20price%20-%201)
 ---
