@@ -43,4 +43,5 @@ ___
 - [x] 2.6.4. [Среднее арифметическое](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.4.%20Arithmetic%20mean)
 - [x] 2.6.5. [Дробная часть](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.5.%20Fractional%20part)
 - [x] 2.6.6. [Объем информации](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.6.%20Amount%20of%20information)
+- [x] 2.6.7. [Периметр прямоугольного треугольника](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.7.%20Perimeter%20of%20a%20right%20triangle)
 ---
