@@ -45,4 +45,5 @@ ___
 - [x] 2.6.6. [Объем информации](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.6.%20Amount%20of%20information)
 - [x] 2.6.7. [Периметр прямоугольного треугольника](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.7.%20Perimeter%20of%20a%20right%20triangle)
 - [x] 2.6.8. [Расстояние между точками](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.8.%20Point%20Distance)
+- [x] 2.6.9. [Манхеттенское расстояние](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.9.%20Manhattan%20geometry)
 ---
