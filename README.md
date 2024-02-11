@@ -48,5 +48,6 @@ ___
 - [x] 2.6.9. [Манхеттенское расстояние](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.6.9.%20Manhattan%20geometry)
 #### 2.7. Итоговый тест
 - [x] 2.7.1. [Три числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.7.1.%20Three%20numbers)
-- [x] 2.7.2. [Число сотен числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.7.2.%20Hundreds&20number)
+- [x] 2.7.2. [Число сотен числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.7.2.%20Hundreds%20number)
+- [x] 2.7.3. [Сумма последних трех цифр](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.7.3.%20Sum%20of%20last%20three%20digits)
 ---
