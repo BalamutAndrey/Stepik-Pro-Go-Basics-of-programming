@@ -12,7 +12,7 @@
 
 **Примечания:**
 
-1. Сначала нужно найти гипотенузу по формуле <big><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>c</mi><mo>=</mo><msqrt><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></msqrt></mrow><annotation encoding="application/x-tex">c = \sqrt{a^2 + b^2}</annotation></semantics></math></big>
+1. Сначала нужно найти гипотенузу по формуле ***c = &radic;(a<sup>2</sup> + b<sup>2</sup>)***
 
 2. Периметр — это сумма всех сторон. 
 
