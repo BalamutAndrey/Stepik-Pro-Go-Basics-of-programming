@@ -6,10 +6,9 @@ import (
 )
 
 func main() {
-	var kat1, kat2, gip float64
-	fmt.Scan(&kat1, &kat2)
-	gip = math.Sqrt((math.Pow(kat1, 2) + math.Pow(kat2, 2)))
-	per := kat1 + kat2 + gip
+	var x1, y1, x2, y2 float64
+	fmt.Scan(&x1, &y1, &x2, &y2)
+	distance := math.Sqrt(math.Pow((x1-x2), 2) + math.Pow((y1-y2), 2))
 
-	fmt.Println(per)
+	fmt.Println(distance)
 }
