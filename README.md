@@ -10,10 +10,11 @@ ___
 #### 1.3. Введение
 - [x] 1.3.1. [Сдаем первую программу (Hello, World!)](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/1.3.1.%20Hello%20World)
 - [x] 1.3.2. [Hello, PRO Go!](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/1.3.2.%20Hello%2C%20PRO%20Go)
+### 2. Типы данных. Переменные
 #### 2.1. Вывод данных
 - [x] 2.1.1. [Здравствуй, Иосиф!](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.1.1.%20Hello%2C%20Iosif)
 - [x] 2.1.2. [Измените предложенную программу](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.1.2.%20Change%20the%20suggested%20program)
-#### 2.3. Типы данных. Переменные
+#### 2.3. Ввод данных
 - [x] 2.3.1. [Приветствие](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.1.%20Greeting)
 - [x] 2.3.2. [Любимая книга](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.2.%20Favorite%20book)
 - [x] 2.3.3. [Повторяй за мной](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.3.3.%20Repeat%20after%20me)
@@ -51,4 +52,7 @@ ___
 - [x] 2.7.2. [Число сотен числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.7.2.%20Hundreds%20number)
 - [x] 2.7.3. [Сумма последних трех цифр](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.7.3.%20Sum%20of%20last%20three%20digits)
 - [x] 2.7.4. [Гипотенуза](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/2.7.4.%20Hypotenuse)
+### 3. Условный оператор
+#### 3.1. Условный оператор
+- [x] 3.1.1. [Гипотенуза](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.1.%20Maximum%20of%20two%20numbers)
 ---
