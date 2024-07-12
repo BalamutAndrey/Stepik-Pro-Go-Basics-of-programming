@@ -62,4 +62,5 @@ ___
 - [x] 3.1.6. [Знак числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.6.%20Sign%20of%20the%20number)
 #### 3.2. Логические операторы
 - [x] 3.2.1. [Трехзначное число](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.1.%20Three%20digit%20number)
+- [x] 3.2.2. [Принадлежность 1](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.2.%20Affiliation%201)
 ---
