@@ -58,4 +58,5 @@ ___
 - [x] 3.1.2. [Пароль](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.2.%20Password)
 - [x] 3.1.3. [Доступ](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.3.%20Access)
 - [x] 3.1.4. [Четное число](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.4.%20Even%20number)
+- [x] 3.1.5. [Делимость](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.5.%20test%20of%20divisibility)
 ---
