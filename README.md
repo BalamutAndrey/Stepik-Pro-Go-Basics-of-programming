@@ -63,4 +63,5 @@ ___
 #### 3.2. Логические операторы
 - [x] 3.2.1. [Трехзначное число](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.1.%20Three%20digit%20number)
 - [x] 3.2.2. [Принадлежность 1](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.2.%20Affiliation%201)
+- [x] 3.2.3. [Принадлежность 2](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.3.%20Affiliation%202)
 ---
