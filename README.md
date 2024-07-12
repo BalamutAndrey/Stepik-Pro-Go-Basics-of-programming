@@ -55,4 +55,5 @@ ___
 ### 3. Условный оператор
 #### 3.1. Условный оператор
 - [x] 3.1.1. [Гипотенуза](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.1.%20Maximum%20of%20two%20numbers)
+- [x] 3.1.2. [Пароль](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.1.2.%20Password)
 ---

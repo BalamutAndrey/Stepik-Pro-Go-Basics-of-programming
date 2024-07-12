@@ -1,15 +1,20 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
+	"os"
 )
 
 func main() {
-	var a, b int
-	fmt.Scan(&a, &b)
-	if a > b {
-		fmt.Println(a)
+	scanner := bufio.NewScanner(os.Stdin)
+	_ = scanner.Scan()
+	string1 := scanner.Text()
+	_ = scanner.Scan()
+	string2 := scanner.Text()
+	if string1 == string2 {
+		fmt.Println("Пароль принят")
 	} else {
-		fmt.Println(b)
+		fmt.Println("Пароль не принят")
 	}
 }
