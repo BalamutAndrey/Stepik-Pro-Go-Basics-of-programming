@@ -31,8 +31,8 @@ ___
 **Sample Input 1:**
 > **1<br />
 1<br />
-1<br />
-2**
+5<br />
+5**
 
 **Sample Output 1:**
 > **YES**
@@ -40,10 +40,10 @@ ___
 <br />
 
 **Sample Input 2:**
-> **4<br />
-4<br />
-3<br />
-3**
+> **3<br />
+2<br />
+2<br />
+2**
 
 **Sample Output 2:**
 > **NO**
