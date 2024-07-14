@@ -66,4 +66,5 @@ ___
 - [x] 3.2.3. [Принадлежность 2](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.3.%20Affiliation%202)
 - [x] 3.2.4. [Цифры числа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.4.%20Digits%20of%20the%20number)
 - [x] 3.2.5. [Счастливый билет](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.5.%20Happy%20ticket)
+- [x] 3.2.6. [Високосный год](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.6.%20Leap%20year)
 ---
