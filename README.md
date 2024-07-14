@@ -68,4 +68,5 @@ ___
 - [x] 3.2.5. [Счастливый билет](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.5.%20Happy%20ticket)
 - [x] 3.2.6. [Високосный год](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.6.%20Leap%20year)
 - [x] 3.2.7. [Возрастная группа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.7.%20Age%20group)
+- [x] 3.2.8. [Ладья](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.8.%20Rook)
 ---
