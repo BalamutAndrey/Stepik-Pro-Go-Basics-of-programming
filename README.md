@@ -70,4 +70,6 @@ ___
 - [x] 3.2.7. [Возрастная группа](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.7.%20Age%20group)
 - [x] 3.2.8. [Ладья](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.8.%20Rook)
 - [ ] 3.2.9. [Слон](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.2.9.%20Bishop)
+#### 3.3. Вложенные условия
+- [x] 3.3.1. [Принадлежность точки](https://github.com/BalamutAndrey/Stepik-Pro-Go-Basics-of-programming/tree/main/3.3.1.%20Point%20affiliation)
 ---
