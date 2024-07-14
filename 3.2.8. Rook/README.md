@@ -29,7 +29,10 @@ ___
 **Memory Limit:** 256 MB
 ___
 **Sample Input 1:**
-> **125**
+> **1<br />
+1<br />
+1<br />
+2**
 
 **Sample Output 1:**
 > **YES**
@@ -37,7 +40,10 @@ ___
 <br />
 
 **Sample Input 2:**
-> **313**
+> **4<br />
+4<br />
+3<br />
+3**
 
 **Sample Output 2:**
 > **NO**
